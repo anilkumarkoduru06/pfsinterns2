@@ -1,0 +1,34 @@
+/* Custom Styles */
+body {
+    padding-top: 56px; /* Adjust for fixed navbar */
+}
+
+header {
+    background: #343a40; /* Dark background color */
+}
+
+section {
+    padding: 60px 0;
+}
+
+footer {
+    background: #343a40; /* Dark background color */
+}
+
+/* Card styles */
+.card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+/* Carousel styles */
+.carousel-item img {
+    height: 400px;
+    object-fit: cover;
+}
